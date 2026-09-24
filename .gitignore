@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+ticket_booking_system\src\main\resources\application.properties
